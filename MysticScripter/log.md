@@ -2,7 +2,7 @@
 
 # Day 1
 
-[Summary]()
+[Summary](https://github.com/Cyb0ts/100-Days-Of-Hacking/tree/main/MysticScripter/Day%201)
 
 # Day 2
 
