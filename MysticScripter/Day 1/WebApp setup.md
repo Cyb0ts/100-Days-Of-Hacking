@@ -38,7 +38,7 @@ docker run -p 1337:80 szsecurity/webgoat
 launch the app by navigating to http://localhost:1337/WebGoat (Capitalization is important)
 
 The second method, which i highly recommend is using the WebGoat server jar file.
-+ First, ensure the latest version of jave is installed in your machine.
++ First, ensure the latest version of java is installed in your machine.
 + Create a directory WebGoat
 + Downloadthe WebGoat server jar and the WebWolf jar files from:
 ```
@@ -55,7 +55,7 @@ java -jar webgoat-server-8.2.2.jar --server.port=8080 --server.address=localhost
 ```
 + Access it via http://localhost:8080/WebGoat
 
-While working on the WebGoat, you might need to use WebWolf. It simuates an attcker's machine.
+While working on the WebGoat, you might need to use WebWolf. It simulates an attacker's machine.
 
 To run:
 ```
