@@ -50,7 +50,7 @@
 
 # Day 13
 
-[Summary]()
+[Summary](https://github.com/Cyb0ts/100-Days-Of-Hacking/tree/main/MysticScripter/Day%2013)
 
 # Day 14
 
