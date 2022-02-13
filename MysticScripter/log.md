@@ -18,7 +18,7 @@
 
 # Day 5
 
-[Summary]()
+[Summary](https://github.com/Cyb0ts/100-Days-Of-Hacking/tree/main/MysticScripter/Day%205)
 
 # Day 6
 
