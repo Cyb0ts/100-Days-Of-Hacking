@@ -1,4 +1,4 @@
-# Lightweight  Directory  Access  Protocol (Injection) Injection
+# Lightweight  Directory  Access  Protocol (LDAP) Injection
 
 ![LDAP](https://github.com/MysticScripter/HNGi8/blob/main/ldap.png)
 
