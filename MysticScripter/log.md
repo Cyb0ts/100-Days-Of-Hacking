@@ -60,3 +60,7 @@
 
 [Summary](https://github.com/Cyb0ts/100-Days-Of-Hacking/tree/main/MysticScripter/Day%2015)
 
+# Day 16
+
+[Summary](https://github.com/Cyb0ts/100-Days-Of-Hacking/tree/main/MysticScripter/Day%2016)
+
