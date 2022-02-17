@@ -1,6 +1,6 @@
 # SMTP/IMAP command injection
 
-![smtp]()
+![smtp](https://github.com/MysticScripter/HNGi8/blob/main/smtp.png)
 
 An IMAP/SMTP Injection makes it possible to access a mail server which otherwise would not be directly accessible from the Internet. In some cases, these internal systems do not have the same level of infrastructure security and hardening that is applied to the front-end web servers.
 
