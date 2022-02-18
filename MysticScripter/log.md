@@ -10,11 +10,11 @@
 
 # Day 3
 
-[Summary]()
+[Summary](https://github.com/Cyb0ts/100-Days-Of-Hacking/tree/main/MysticScripter/Day%203)
 
 # Day 4
 
-[Summary]()
+[Summary](https://github.com/Cyb0ts/100-Days-Of-Hacking/tree/main/MysticScripter/Day%204)
 
 # Day 5
 
@@ -22,7 +22,7 @@
 
 # Day 6
 
-[Summary]()
+[Summary](https://github.com/Cyb0ts/100-Days-Of-Hacking/tree/main/MysticScripter/Day%206)
 
 # Day 7
 
@@ -38,15 +38,15 @@
 
 # Day 10
 
-[Summary]()
+[Summary](https://github.com/Cyb0ts/100-Days-Of-Hacking/tree/main/MysticScripter/Day%2010)
 
 # Day 11
 
-[Summary]()
+[Summary](https://github.com/Cyb0ts/100-Days-Of-Hacking/tree/main/MysticScripter/Day%2011)
 
 # Day 12
 
-[Summary]()
+[Summary](https://github.com/Cyb0ts/100-Days-Of-Hacking/tree/main/MysticScripter/Day%2012)
 
 # Day 13
 
@@ -54,7 +54,7 @@
 
 # Day 14
 
-[Summary]()
+[Summary](https://github.com/Cyb0ts/100-Days-Of-Hacking/tree/main/MysticScripter/Day%2014)
 
 # Day 15
 
